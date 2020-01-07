@@ -1,0 +1,1 @@
+# Software-Licensing-Qt
